@@ -1,7 +1,6 @@
 # Weather Forecasting System
 
-A simple Java-based console application to simulate a weather forecasting system. The application allows users to check the maximum and minimum temperatures, current weather conditions, and humidity levels for the day.
-
+A Java-based console application that simulates a weather forecasting system, allowing users to check daily temperatures, weather conditions, and humidity levels. Simple and efficient for basic weather tracking.
 ## Features
 
 - **Temperature Information:** Displays the maximum and minimum temperatures of the day.
